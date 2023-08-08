@@ -2,6 +2,7 @@ version: 1.0
 app:
   instances:
     min: 1
+    max: 2
   version: 300e27ad-0845-4274-b637-4922cffee610
   env:
     - name: JVM_ARGS
