@@ -3,7 +3,7 @@ app:
   instances:
     min: 1
     max: 2
-  version: 1586e2e8-1396-433b-8075-adcefdc56902
+  version: 4a75c0c3-65c4-41c8-82c3-c85e72086a17
   env:
     - name: JVM_ARGS
       value: "-DenvironmentType=stage"
